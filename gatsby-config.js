@@ -70,4 +70,5 @@ module.exports = {
         },
     },
   ],
+  //pathPrefix: "/mhphoto-themed",
 }
