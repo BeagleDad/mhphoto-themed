@@ -1,11 +1,39 @@
 module.exports = {
   siteMetadata: {
-    title: `Serena`,
+    title: `Matt Hoffman\nPhoto`,
     description: `Photography Theme`,
     author: "Gatsby",
     image: "https://gatsby-theme-serena.netlify.com/og-image.webp",
-    name: `Serena`,
-    tagline: `Photography Theme`,
+    name: `Matt Hoffman Photography`,
+    tagline: `Beautiful Images for Real Estate`,
+    menuLinks: [
+      {
+        name: "Gallery",
+        url: `/`,
+        type: "internal"
+      },
+      
+      {
+        name: "Pricing",
+        url: "/prices/",
+        type: "internal" // internal or anchor
+      },
+      {
+        name: "Home Prep",
+        url: "/home-prep/",
+        type: "internal"
+      },
+      {
+        name: "About",
+        url: "/about",
+        type: "internal"
+      },
+      {
+        name: "Contact",
+        url: "/contact-me/",
+        type: "internal"
+      },
+    ],
     social: [
       {
         name: `Facebook`,
@@ -29,14 +57,17 @@ module.exports = {
         short_name: `Serena`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#000`,
+        theme_color: `#fff`,
         icon: `content/assets/icon.png`,
         display: `standalone`,
       },
     },
     {
       resolve: `gatsby-theme-serena`,
-      options: {},
+      options: {
+        disableContact: true,
+        margin: `3`,
+        },
     },
   ],
 }
