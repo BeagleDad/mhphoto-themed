@@ -12,7 +12,6 @@ module.exports = {
         url: `/`,
         type: "internal"
       },
-      
       {
         name: "Pricing",
         url: "/prices/",

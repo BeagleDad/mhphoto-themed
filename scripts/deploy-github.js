@@ -5,7 +5,7 @@ ghpages.publish(
   'public',
   {
     branch: 'master',
-    repo: `https://github.com/BeagleDad/mhp-pub.git,`
+    repo: `https://github.com/BeagleDad/mhphoto-themed.git`
   },
   () => {
     console.log('Deploy Complete!')
