@@ -1,6 +1,15 @@
 - name: Home
   slug: /
   photos:
+    - title: Front View
+      alt: Front
+      url: ../assets/LorraineCt_2640.jpg 
+    - title: Living Room
+      alt: Liv Rm
+      url: ../assets/LorraineCt_2566.jpg
+    - title: Twilight
+      alt: Twilight
+      url: ../assets/DSC_1753_2.jpg
     - title: Family Room
       alt: Fam Rm
       url: ../assets/LorraineCt_2491.jpg
@@ -21,9 +30,6 @@
       url: ../assets/LorraineCt_2536.jpg
     - title: Family Room
       alt: Fam Rm
-      url: ../assets/LorraineCt_2539.jpg
-    - title: Family Room
-      alt: Fam Rm
       url: ../assets/DSC_3097.jpg
     - title: Family Room
       alt: Fam Rm
@@ -31,4 +37,3 @@
     - title: Family Room
       alt: Fam Rm
       url: ../assets/DSC_3895.jpg
-      
