@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Matt Hoffman\nPhoto`,
     description: `Beautiful, professional photographs for marketing real estate. Serving Prescott Valley, Prescott, and surrounding area.`,
-    keywords: `professional, photography, real estate, marketing, prescott, prescott valley, arizona, az`,
+    // this doesn't work: keywords: `professional, photography, real estate, marketing, prescott, prescott valley, arizona, az`,
     author: "Matt Hoffman",
     image: "https://www.matthoffmanphoto.com/static/de9cd208614cdc2803b70c0cee91982f/e7136/LorraineCt_2491.webp",
     name: `Matt Hoffman Photography`,
@@ -50,6 +50,7 @@ module.exports = {
     ],
   },
   plugins: [
+    //{resolve: `gatsby-plugin-react-helmet`},
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -69,6 +70,7 @@ module.exports = {
         margin: `3`,
         },
     },
+    
   ],
   //pathPrefix: "/mhphoto-themed",
 }
