@@ -24,6 +24,11 @@ module.exports = {
         type: "internal"
       },
       {
+        name: "Terms of Service",
+        url: "/terms",
+        type: "internal"
+      },
+      {
         name: "About",
         url: "/about",
         type: "internal"
