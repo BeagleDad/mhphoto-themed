@@ -1,6 +1,27 @@
 - name: Home
   slug: /
   photos:
+    - title: Bedroom
+      alt: Bedroom
+      url: ../assets/D85_0259_01.jpg
+    - titles: Sitting Area
+      alt: Sitting Area
+      url: D85_0272_01.jpg
+    - title: Kitchen
+      alt: Kitchen
+      url: D85_0279_02.jpg
+    - title: Outdoor Fire
+      alt: Outdoor Fire
+      url: D85_0301_01.jpg
+    - title: Master Bedroom
+      alt: Master Bedroom
+      url: D85_0325_01.jpg
+    - title: Master Bath
+      alt: Master Bath
+      url: D85_0342_02.jpg
+    - title: Great Room
+      alt: Great Room
+      url: D85_0354_01.jpg
     - title: Front View
       alt: Exterior Front View
       url: ../assets/LorraineCt_2640.jpg 
