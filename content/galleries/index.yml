@@ -1,33 +1,45 @@
 - name: Home
   slug: /
   photos:
-    - title: Bedroom
-      alt: Bedroom
-      url: ../assets/D85_0259_01.jpg
-    - titles: Sitting Area
-      alt: Sitting Area
-      url: D85_0272_01.jpg
-    - title: Kitchen
-      alt: Kitchen
-      url: D85_0279_02.jpg
-    - title: Outdoor Fire
-      alt: Outdoor Fire
-      url: D85_0301_01.jpg
-    - title: Master Bedroom
-      alt: Master Bedroom
-      url: D85_0325_01.jpg
-    - title: Master Bath
-      alt: Master Bath
-      url: D85_0342_02.jpg
-    - title: Great Room
-      alt: Great Room
-      url: D85_0354_01.jpg
     - title: Front View
       alt: Exterior Front View
       url: ../assets/LorraineCt_2640.jpg 
     - title: Living Room
       alt: Living Room
       url: ../assets/LorraineCt_2566.jpg
+    - title: Kitchen
+      alt: Kitchen
+      url: ../assets/D85_0279_03.jpg
+    - title: Bedroom
+      alt: Bedroom
+      url: ../assets/D85_0259_rs.jpg
+    - title: Outdoor Fire
+      alt: Outdoor Fire
+      url: ../assets/D85_0301_rs.jpg
+    - title: Master Bedroom
+      alt: Master Bedroom
+      url: ../assets/D85_0325_rs.jpg
+    - title: Master Bath
+      alt: Master Bath
+      url: ../assets/D85_0342_04.jpg
+    - title: Great Room
+      alt: Great Room
+      url: ../assets/D85_0354_02.jpg
+    - title: Great Room
+      alt: Great Room
+      url: ../assets/D85_0153_02.jpg
+    - title: Bedroom1
+      alt: Bedroom1
+      url: ../assets/D85_0131_02.jpg
+    - title: Bedroom2
+      alt: Bedroom2
+      url: ../assets/D85_0117_02.jpg
+    - title: Master Bath
+      alt: Master Bath
+      url: ../assets/D85_0143_02.jpg
+    - title: Sun Lounge
+      alt: Sun Lounge
+      url: ../assets/D85_0184_02.jpg
     - title: Twilight
       alt: Twilight
       url: ../assets/DSC_1753_2.jpg
