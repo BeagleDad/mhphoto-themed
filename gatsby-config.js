@@ -13,11 +13,11 @@ module.exports = {
         url: `/`,
         type: "internal"
       },
-      {
-        name: "Pricing",
-        url: "/prices/",
-        type: "internal" // internal or anchor
-      },
+      // {
+      //   name: "Pricing",
+      //   url: "/prices/",
+      //   type: "internal" // internal or anchor
+      // },
       {
         name: "Home Prep",
         url: "/home-prep/",
